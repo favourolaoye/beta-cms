@@ -11,8 +11,8 @@ import {
 const orders = [
   {
     id: 1,
-    service: "I will design website UI UX in figma and landing page UI",
-    status: "Ongoing",
+    service: "Item A",
+    status: "Recieved",
     date: "March 9, 2023",
     buyer: {
       name: "Leslie Alexander",
@@ -21,7 +21,7 @@ const orders = [
   },
   {
     id: 2,
-    service: "I will create UI design app based on your wireframe",
+    service: "Item B",
     status: "Completed",
     date: "March 4, 2023",
     buyer: {
